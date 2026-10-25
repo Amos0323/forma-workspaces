@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-25",
+  "buildId": "TxK2hwW5puQMuGR0nRolr",
+  "lint": "pass",
+  "typecheck": "pass",
+  "productionBuild": "pass",
+  "unit": {
+    "passed": 18,
+    "files": 7
+  },
+  "chromiumInitial": {
+    "passed": 66,
+    "failed": 1,
+    "skipped": 3
+  },
+  "imageIsolatedRetests": {
+    "passed": 3,
+    "changesMade": false
+  },
+  "chromiumFinal": {
+    "passed": 67,
+    "failed": 0,
+    "skipped": 3
+  },
+  "firefox": {
+    "passed": 17
+  },
+  "webkitDesktop": {
+    "passed": 17
+  },
+  "webkitMobileEmulation": {
+    "passed": 17
+  },
+  "dependencyVulnerabilities": 0,
+  "manualDeviceSessions": 0,
+  "manualScreenReaderSessions": 0,
+  "decision": "GO local review; NO-GO public launch",
+  "applicationCodeChanged": false,
+  "deployed": false,
+  "published": false,
+  "pushed": false
+}

@@ -1,0 +1,47 @@
+{
+  "browser": "156.0.8078.4",
+  "views": [
+    {
+      "name": "desktop",
+      "errors": [],
+      "renderer": {
+        "engine": "three.js r186",
+        "materials": "{\"timber\":\"#59402f\",\"flooring\":\"#756653\",\"upholstery\":\"#434743\",\"accent\":\"#a78658\"}",
+        "resourceIds": "6e0a50c9-8539-4ea2-b03a-c12059dfe73a,0bc2145e-a1d3-4d0c-b8a9-2fa83883c4ec,5deef0df-d5f9-4496-bf42-16eae57e6d3c",
+        "lighting": "evening",
+        "background": "#b9ad99",
+        "selectedFurniture": "sofa",
+        "sceneCommits": "6",
+        "view": "Overview",
+        "frames": "3",
+        "calls": "144",
+        "triangles": "6964",
+        "geometries": "3",
+        "textures": "3",
+        "cameraY": "18.00",
+        "cameraPosition": "10.01,18.00,13.16"
+      }
+    },
+    {
+      "name": "mobile",
+      "errors": [],
+      "renderer": {
+        "engine": "three.js r186",
+        "materials": "{\"timber\":\"#59402f\",\"flooring\":\"#756653\",\"upholstery\":\"#434743\",\"accent\":\"#a78658\"}",
+        "resourceIds": "88dcc2d1-7930-4fad-812f-e11bbf5427a9,504c2133-f3af-41e0-81a1-cb84b334df9a,74a8c696-d296-42ee-82dc-c17c47617525",
+        "lighting": "evening",
+        "background": "#b9ad99",
+        "selectedFurniture": "sofa",
+        "sceneCommits": "9",
+        "view": "Overview",
+        "frames": "5",
+        "calls": "145",
+        "triangles": "6964",
+        "geometries": "4",
+        "textures": "3",
+        "cameraY": "23.21",
+        "cameraPosition": "13.01,23.21,17.11"
+      }
+    }
+  ]
+}

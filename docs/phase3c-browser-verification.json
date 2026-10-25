@@ -1,0 +1,89 @@
+{
+  "desktop": {
+    "before3D": [],
+    "errors": [],
+    "selectedMetrics": {
+      "engine": "three.js r186",
+      "materials": "{\"timber\":\"#59402f\",\"flooring\":\"#756653\",\"upholstery\":\"#434743\",\"accent\":\"#a78658\"}",
+      "resourceIds": "c1e7e1b7-76db-406f-a33c-d818f05292dd,131a5745-125a-4fa6-b26c-b10b040c453b,ca5eaa74-2152-4934-8944-83662cb1e020",
+      "lighting": "evening",
+      "background": "#b9ad99",
+      "selectedFurniture": "sofa",
+      "view": "Overview",
+      "frames": "3",
+      "calls": "144",
+      "triangles": "6964",
+      "geometries": "3",
+      "textures": "3",
+      "cameraY": "18.00",
+      "cameraPosition": "10.01,18.00,13.16"
+    }
+  },
+  "mobile": {
+    "before3D": [],
+    "errors": [],
+    "selectedMetrics": {
+      "engine": "three.js r186",
+      "materials": "{\"timber\":\"#59402f\",\"flooring\":\"#756653\",\"upholstery\":\"#434743\",\"accent\":\"#a78658\"}",
+      "resourceIds": "f4caaa24-ec9c-476f-88e8-05c5002917e1,079a94dc-9012-4583-8d37-bea2c3e30e5a,2301f59f-e7e4-4e24-a905-002ad69c0782",
+      "lighting": "evening",
+      "background": "#b9ad99",
+      "selectedFurniture": "sofa",
+      "view": "Overview",
+      "frames": "4",
+      "calls": "145",
+      "triangles": "6964",
+      "geometries": "4",
+      "textures": "3",
+      "cameraY": "23.21",
+      "cameraPosition": "13.01,23.21,17.11"
+    }
+  },
+  "layouts": {
+    "320": {
+      "noPageOverflow": true,
+      "noComparisonOverflow": true,
+      "closeVisible": true,
+      "closeTarget": [
+        44,
+        44
+      ]
+    },
+    "390": {
+      "noPageOverflow": true,
+      "noComparisonOverflow": true,
+      "closeVisible": true,
+      "closeTarget": [
+        44,
+        44
+      ]
+    },
+    "768": {
+      "noPageOverflow": true,
+      "noComparisonOverflow": true,
+      "closeVisible": true,
+      "closeTarget": [
+        44,
+        44
+      ]
+    },
+    "1024": {
+      "noPageOverflow": true,
+      "noComparisonOverflow": true,
+      "closeVisible": true,
+      "closeTarget": [
+        44,
+        44
+      ]
+    },
+    "1440": {
+      "noPageOverflow": true,
+      "noComparisonOverflow": true,
+      "closeVisible": true,
+      "closeTarget": [
+        44,
+        44
+      ]
+    }
+  }
+}

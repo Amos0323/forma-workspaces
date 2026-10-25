@@ -1,0 +1,234 @@
+[
+  {
+    "file": "docs/design/phase4/1440-contact.png",
+    "width": 1440,
+    "height": 2371,
+    "bytes": 156050,
+    "sha256": "a5db77026b520035ee58ec4b6f4736901a086f1c25d3031107fd5d1988af11ec",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/1440-experience.png",
+    "width": 1440,
+    "height": 1510,
+    "bytes": 115644,
+    "sha256": "5b6fcf10a8999f98ab59f8283789daa7ebc1553162ca7134cb21dc499aa84e29",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/1440-home.png",
+    "width": 1440,
+    "height": 7387,
+    "bytes": 4338424,
+    "sha256": "48e0f12647e95fc668f776d03d19679ad91ee32aead0fae44dc6479e6048c4e7",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/1440-journal-future-workplace-design-cape-town.png",
+    "width": 1440,
+    "height": 3934,
+    "bytes": 1376241,
+    "sha256": "a2d31d0ff3f687f1753519311911fe66607280dd29aeea42859fad6822a6306b",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/1440-journal.png",
+    "width": 1440,
+    "height": 2733,
+    "bytes": 1486960,
+    "sha256": "01e1cf34d00b56f563df16fdd31204b0700afea0f6e087aa8ff18bb947a4d2ec",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/1440-projects-the-waterfront-studio.png",
+    "width": 1440,
+    "height": 6513,
+    "bytes": 2058533,
+    "sha256": "9d98dca0a53ee9883c03ca33e3ec5930d61b1309acbd08ff4eaff534778bcd68",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/1440-projects.png",
+    "width": 1440,
+    "height": 4881,
+    "bytes": 2264796,
+    "sha256": "39e3dbac3bf9deeecc4a843f6567b8fd2296521705c81e970ce2678591df6812",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/1440-services.png",
+    "width": 1440,
+    "height": 6549,
+    "bytes": 2334830,
+    "sha256": "09370b535cff1bd4fda4f09506ae75e4c2fffb01ef2582493b252824a40e4e46",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/1440-studio.png",
+    "width": 1440,
+    "height": 4695,
+    "bytes": 1370821,
+    "sha256": "71dd8cd89aa805a5e75381d110942afc981a437d86bbe501498c857ca2c9bca9",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-contact.png",
+    "width": 390,
+    "height": 2238,
+    "bytes": 85483,
+    "sha256": "e51533ac27887083bcc5906a7d7bc6134adc808969bdc9779fc3abc2c591b7b3",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-experience.png",
+    "width": 390,
+    "height": 1793,
+    "bytes": 75767,
+    "sha256": "89c645e3a866c515b19f8de6541f21b1a1f17444c36271366f97f104c55a32e5",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-home.png",
+    "width": 390,
+    "height": 7811,
+    "bytes": 1729597,
+    "sha256": "70637b976535026f3e792be86ed67585f9a2888821be0df86171d98d5a655884",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-journal-future-workplace-design-cape-town.png",
+    "width": 390,
+    "height": 4218,
+    "bytes": 417817,
+    "sha256": "ce9ba9e7d348997376230eeffce09b500e47a598ecdf5df53f936647824868e6",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-journal.png",
+    "width": 390,
+    "height": 2851,
+    "bytes": 622332,
+    "sha256": "4c861d7fb0e95274c36d2dece8f19f492f3a6b013f98d40fe2e831260c7abc48",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-projects-the-waterfront-studio.png",
+    "width": 390,
+    "height": 6022,
+    "bytes": 759337,
+    "sha256": "8c0c3341159962602e6b26cca015d18c166be3ba1e07788f2280052b61ce3d06",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-projects.png",
+    "width": 390,
+    "height": 5330,
+    "bytes": 1065159,
+    "sha256": "decdd91df259f1e328358510d3ee69405b412c575a09dc24436cf5e7786b5b93",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-services.png",
+    "width": 390,
+    "height": 7892,
+    "bytes": 1079390,
+    "sha256": "3cd1bea9acb4ce3b35ca98dfa6f6afdeb4ae98a13f813db53191512d4f3189ec",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/390-studio.png",
+    "width": 390,
+    "height": 4945,
+    "bytes": 511395,
+    "sha256": "e9c6ed19eccd6f8ad84d4794b2fc99214e77fac598b9bc460d7bfe00c3f55f07",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/contact-sheet-1440.png",
+    "width": 780,
+    "height": 3782,
+    "bytes": 1874555,
+    "sha256": "882f2e4fa8aa10ee9617d19b7fadc1e6468ab5d1875bde5cc31bdc3dbce421e0",
+    "provenance": "Derived QA composite"
+  },
+  {
+    "file": "docs/design/phase4/contact-sheet-390.png",
+    "width": 780,
+    "height": 14573,
+    "bytes": 7315107,
+    "sha256": "07c056ad25d0264db39d33f3ad49694582293a4db87f93d0e50523b1666db677",
+    "provenance": "Derived QA composite"
+  },
+  {
+    "file": "docs/design/phase4/desktop-3d.png",
+    "width": 1440,
+    "height": 900,
+    "bytes": 135149,
+    "sha256": "6cafa2a99cbcc4edbf3caf88f2c50e23de5d1f090950d907ab29439e4ca95dd0",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/desktop-board.png",
+    "width": 1600,
+    "height": 2000,
+    "bytes": 480931,
+    "sha256": "ff9abe64dfee287d31abbd6d4fe8728dbd53faa9090a287e92d69ca7f8826d5b",
+    "provenance": "Actual downloaded PNG"
+  },
+  {
+    "file": "docs/design/phase4/desktop-comparison.png",
+    "width": 1440,
+    "height": 900,
+    "bytes": 142776,
+    "sha256": "b59da7da74a033af04bc5cbb301d5330f8a89c340f3fff7ac295389e334e9714",
+    "provenance": "Chromium page capture"
+  },
+  {
+    "file": "docs/design/phase4/mobile-3d.png",
+    "width": 1170,
+    "height": 1992,
+    "bytes": 178317,
+    "sha256": "cb3f2931bb99c2bec88af02a9fee707145fe3c2196b51770aec47c73abb70691",
+    "provenance": "Chromium mobile emulation"
+  },
+  {
+    "file": "docs/design/phase4/mobile-board.png",
+    "width": 1600,
+    "height": 2000,
+    "bytes": 371790,
+    "sha256": "e445164a1452e74a72aa558f4545d0c6237f882d656353da1dfceb156696ae41",
+    "provenance": "Actual downloaded PNG"
+  },
+  {
+    "file": "docs/design/phase4/mobile-comparison.png",
+    "width": 1170,
+    "height": 1992,
+    "bytes": 124342,
+    "sha256": "0796f2ec3b950f5642365bae6e087489dffe7d7f4e1a69d7cde37acb15381985",
+    "provenance": "Chromium mobile emulation"
+  },
+  {
+    "file": "docs/design/phase4/mobile-review-0.png",
+    "width": 289,
+    "height": 1800,
+    "bytes": 382842,
+    "sha256": "0249b1a05749577d26357500f0a884b3352d53fa9b1b40a36bbb30b5c60af8a0",
+    "provenance": "Derived QA composite"
+  },
+  {
+    "file": "docs/design/phase4/mobile-review-1.png",
+    "width": 289,
+    "height": 1800,
+    "bytes": 477793,
+    "sha256": "375c6872f411af711a232c22adbef087028aea885088e1fcb9f580f9c8a07745",
+    "provenance": "Derived QA composite"
+  },
+  {
+    "file": "docs/design/phase4/mobile-review-2.png",
+    "width": 289,
+    "height": 1800,
+    "bytes": 528022,
+    "sha256": "008a710d895d43bc5f9f9db4442743d3c982797e5456ffd7cd6fe77d69c64569",
+    "provenance": "Derived QA composite"
+  }
+]

@@ -1,0 +1,2268 @@
+{
+  "pages": [
+    {
+      "route": "/",
+      "width": 1440,
+      "title": "Cape Town Office Interior Design",
+      "description": "Explore commercial interior design Cape Town concepts by FORMA, a fictional South African workplace design studio. Thoughtful spaces. Better ways of working.",
+      "og": "Cape Town Office Interior Design | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "article:nth-child(1) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(2) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(3) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(4) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(5) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(6) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                ".scroll-cue"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "route": "/projects",
+      "width": 1440,
+      "title": "Cape Town Workplace Design Concepts | FORMA WORKSPACES",
+      "description": "Explore six fictional Western Cape workplaces by category and approximate location. Interactive design studies by FORMA, a fictional Cape Town studio.",
+      "og": "Cape Town Workplace Design Concepts | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".filtered-project:nth-child(1) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(2) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(3) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(4) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(5) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(6) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                ".filtered-project:nth-child(1) > article > .project-caption > div > h3"
+              ],
+              "summary": "Fix any of the following:\n  Heading order invalid"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                ".is-selected"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Woodstock\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Century City\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Stellenbosch\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Cape Town Foreshore\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Claremont\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-waterfront-studio",
+      "width": 1440,
+      "title": "The Waterfront Studio — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "An imagined creative agency workplace inspired by the V&A Waterfront. Timber meeting rooms and open collaboration areas balance the energy of a shared studio with space for focused work. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Waterfront Studio — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-waterfront-studio",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-woodstock-collective",
+      "width": 1440,
+      "title": "The Woodstock Collective — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "A conceptual shared workplace inspired by Woodstock’s creative neighbourhoods. Communal tables, adaptable meeting areas and tactile finishes support independent teams and small businesses. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Woodstock Collective — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-woodstock-collective",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-century-city-hub",
+      "width": 1440,
+      "title": "The Century City Hub — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "An imagined technology workplace for a hybrid team in Century City. Clear circulation connects project areas, quiet rooms and a shared kitchen, offering different settings throughout the working day. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Century City Hub — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-century-city-hub",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-stellenbosch-workspace",
+      "width": 1440,
+      "title": "The Stellenbosch Workspace — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "A conceptual professional services workspace inspired by the light and landscape of Stellenbosch. Comfortable meeting spaces and a generous shared lounge create a considered balance between privacy and connection. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Stellenbosch Workspace — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-stellenbosch-workspace",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-foreshore-offices",
+      "width": 1440,
+      "title": "The Foreshore Offices — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "An imagined refurbishment of a corporate office in the Foreshore area of Cape Town CBD. Flexible meeting settings and daylight-led planning explore how an existing tenancy could support a changing organisation. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Foreshore Offices — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-foreshore-offices",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-claremont-studio",
+      "width": 1440,
+      "title": "The Claremont Studio — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "A conceptual boutique workspace in Claremont, bringing a residential sense of comfort to commercial interiors. Informal seating, focused work areas and greenery offer a welcoming setting for a small creative team. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Claremont Studio — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-claremont-studio",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/studio",
+      "width": 1440,
+      "title": "Cape Town Design Studio Concept | FORMA WORKSPACES",
+      "description": "A fictional Cape Town studio exploring thoughtful commercial interiors, natural materials and a more human working day. Discover the FORMA approach and process.",
+      "og": "Cape Town Design Studio Concept | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/studio",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/services",
+      "width": 1440,
+      "title": "Commercial Interior Design Cape Town — Services | FORMA WORKSPACES",
+      "description": "Explore six conceptual services, from office space planning to refurbishment and workplace transformation. FORMA is a fictional South African studio.",
+      "og": "Commercial Interior Design Cape Town — Services | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/services",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "route": "/experience",
+      "width": 1440,
+      "title": "Cape Town Workplace Interior Configurator | FORMA WORKSPACES",
+      "description": "Explore a fictional Cape Town workplace. Compare coordinated interior themes, timber, flooring, upholstery and lighting in FORMA's interactive 3D showroom.",
+      "og": "Cape Town Workplace Interior Configurator | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/experience",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "small"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 4.44 (foreground color: #65685b, background color: #e7e3d8, font size: 6.6pt (8.8px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(1) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: bold). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(2) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(3) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(4) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(5) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "route": "/journal",
+      "width": 1440,
+      "title": "South African Workplace Design Journal | FORMA WORKSPACES",
+      "description": "Four original perspectives on Cape Town workplace design, hybrid offices, natural materials and collaboration. Editorial for the fictional FORMA studio portfolio.",
+      "og": "South African Workplace Design Journal | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "article:nth-child(1) > .journal-card-image"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "article:nth-child(2) > .journal-card-image"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "article:nth-child(3) > .journal-card-image"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "article:nth-child(4) > .journal-card-image"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/journal/future-workplace-design-cape-town",
+      "width": 1440,
+      "title": "The Future of Workplace Design in Cape Town | FORMA WORKSPACES",
+      "description": "A future workplace can begin with a better question: what should coming together make possible? Original editorial from a fictional Cape Town studio portfolio.",
+      "og": "The Future of Workplace Design in Cape Town | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal/future-workplace-design-cape-town",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/journal/designing-offices-hybrid-work",
+      "width": 1440,
+      "title": "Designing Offices for Hybrid Work | FORMA WORKSPACES",
+      "description": "Make room for different ways of working without making the workplace difficult to understand. Original editorial from a fictional Cape Town studio portfolio.",
+      "og": "Designing Offices for Hybrid Work | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal/designing-offices-hybrid-work",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/journal/natural-materials-south-african-interiors",
+      "width": 1440,
+      "title": "Natural Materials in Contemporary South African Interiors | FORMA WORKSPACES",
+      "description": "A restrained palette can express a sense of place through texture, care and proportion. Original editorial from a fictional Cape Town studio portfolio.",
+      "og": "Natural Materials in Contemporary South African Interiors | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal/natural-materials-south-african-interiors",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/journal/creating-collaborative-workspaces",
+      "width": 1440,
+      "title": "Creating Collaborative Workspaces | FORMA WORKSPACES",
+      "description": "Good collaboration needs more than an open plan. It needs choice, clarity and room to step away. Original editorial from a fictional Cape Town studio portfolio.",
+      "og": "Creating Collaborative Workspaces | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal/creating-collaborative-workspaces",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "title": "Cape Town — Contact Demo | FORMA WORKSPACES",
+      "description": "Explore the Cape Town location and Western Cape service-area concept for fictional studio FORMA. Demo enquiries are not sent; no physical office is verified.",
+      "og": "Cape Town — Contact Demo | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/contact",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "title": "Cape Town Office Interior Design",
+      "description": "Explore commercial interior design Cape Town concepts by FORMA, a fictional South African workplace design studio. Thoughtful spaces. Better ways of working.",
+      "og": "Cape Town Office Interior Design | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "article:nth-child(1) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(2) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(3) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(4) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(5) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "article:nth-child(6) > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                ".scroll-cue"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "route": "/projects",
+      "width": 390,
+      "title": "Cape Town Workplace Design Concepts | FORMA WORKSPACES",
+      "description": "Explore six fictional Western Cape workplaces by category and approximate location. Interactive design studies by FORMA, a fictional Cape Town studio.",
+      "og": "Cape Town Workplace Design Concepts | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".filtered-project:nth-child(1) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(2) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(3) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(4) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(5) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".filtered-project:nth-child(6) > article > .project-caption > .project-number"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                ".filtered-project:nth-child(1) > article > .project-caption > div > h3"
+              ],
+              "summary": "Fix any of the following:\n  Heading order invalid"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                ".is-selected"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Woodstock\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Century City\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Stellenbosch\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Cape Town Foreshore\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "g[aria-label=\"Select Claremont\"]"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-waterfront-studio",
+      "width": 390,
+      "title": "The Waterfront Studio — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "An imagined creative agency workplace inspired by the V&A Waterfront. Timber meeting rooms and open collaboration areas balance the energy of a shared studio with space for focused work. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Waterfront Studio — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-waterfront-studio",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-woodstock-collective",
+      "width": 390,
+      "title": "The Woodstock Collective — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "A conceptual shared workplace inspired by Woodstock’s creative neighbourhoods. Communal tables, adaptable meeting areas and tactile finishes support independent teams and small businesses. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Woodstock Collective — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-woodstock-collective",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-century-city-hub",
+      "width": 390,
+      "title": "The Century City Hub — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "An imagined technology workplace for a hybrid team in Century City. Clear circulation connects project areas, quiet rooms and a shared kitchen, offering different settings throughout the working day. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Century City Hub — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-century-city-hub",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-stellenbosch-workspace",
+      "width": 390,
+      "title": "The Stellenbosch Workspace — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "A conceptual professional services workspace inspired by the light and landscape of Stellenbosch. Comfortable meeting spaces and a generous shared lounge create a considered balance between privacy and connection. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Stellenbosch Workspace — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-stellenbosch-workspace",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-foreshore-offices",
+      "width": 390,
+      "title": "The Foreshore Offices — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "An imagined refurbishment of a corporate office in the Foreshore area of Cape Town CBD. Flexible meeting settings and daylight-led planning explore how an existing tenancy could support a changing organisation. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Foreshore Offices — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-foreshore-offices",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/projects/the-claremont-studio",
+      "width": 390,
+      "title": "The Claremont Studio — Conceptual Workplace | FORMA WORKSPACES",
+      "description": "A conceptual boutique workspace in Claremont, bringing a residential sense of comfort to commercial interiors. Informal seating, focused work areas and greenery offer a welcoming setting for a small creative team. Fictional design study in South Africa; photography is illustrative.",
+      "og": "The Claremont Studio — Conceptual Workplace | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/projects/the-claremont-studio",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "#project-introduction > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                "div:nth-child(3) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(1) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".concept-brief > dl > div:nth-child(2) > dt"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.95 (foreground color: #77786e, background color: #f3f1e9, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "route": "/studio",
+      "width": 390,
+      "title": "Cape Town Design Studio Concept | FORMA WORKSPACES",
+      "description": "A fictional Cape Town studio exploring thoughtful commercial interiors, natural materials and a more human working day. Discover the FORMA approach and process.",
+      "og": "Cape Town Design Studio Concept | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/studio",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/services",
+      "width": 390,
+      "title": "Commercial Interior Design Cape Town — Services | FORMA WORKSPACES",
+      "description": "Explore six conceptual services, from office space planning to refurbishment and workplace transformation. FORMA is a fictional South African studio.",
+      "og": "Commercial Interior Design Cape Town — Services | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/services",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "route": "/experience",
+      "width": 390,
+      "title": "Cape Town Workplace Interior Configurator | FORMA WORKSPACES",
+      "description": "Explore a fictional Cape Town workplace. Compare coordinated interior themes, timber, flooring, upholstery and lighting in FORMA's interactive 3D showroom.",
+      "og": "Cape Town Workplace Interior Configurator | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/experience",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                "small"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 4.44 (foreground color: #65685b, background color: #e7e3d8, font size: 6.0pt (8px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(1) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: bold). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(2) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(3) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(4) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(5) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.91 (foreground color: #77786e, background color: #f2f0e8, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "route": "/journal",
+      "width": 390,
+      "title": "South African Workplace Design Journal | FORMA WORKSPACES",
+      "description": "Four original perspectives on Cape Town workplace design, hybrid offices, natural materials and collaboration. Editorial for the fictional FORMA studio portfolio.",
+      "og": "South African Workplace Design Journal | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "article:nth-child(1) > .journal-card-image"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "article:nth-child(2) > .journal-card-image"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "article:nth-child(3) > .journal-card-image"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            },
+            {
+              "target": [
+                "article:nth-child(4) > .journal-card-image"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/journal/future-workplace-design-cape-town",
+      "width": 390,
+      "title": "The Future of Workplace Design in Cape Town | FORMA WORKSPACES",
+      "description": "A future workplace can begin with a better question: what should coming together make possible? Original editorial from a fictional Cape Town studio portfolio.",
+      "og": "The Future of Workplace Design in Cape Town | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal/future-workplace-design-cape-town",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/journal/designing-offices-hybrid-work",
+      "width": 390,
+      "title": "Designing Offices for Hybrid Work | FORMA WORKSPACES",
+      "description": "Make room for different ways of working without making the workplace difficult to understand. Original editorial from a fictional Cape Town studio portfolio.",
+      "og": "Designing Offices for Hybrid Work | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal/designing-offices-hybrid-work",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/journal/natural-materials-south-african-interiors",
+      "width": 390,
+      "title": "Natural Materials in Contemporary South African Interiors | FORMA WORKSPACES",
+      "description": "A restrained palette can express a sense of place through texture, care and proportion. Original editorial from a fictional Cape Town studio portfolio.",
+      "og": "Natural Materials in Contemporary South African Interiors | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal/natural-materials-south-african-interiors",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/journal/creating-collaborative-workspaces",
+      "width": 390,
+      "title": "Creating Collaborative Workspaces | FORMA WORKSPACES",
+      "description": "Good collaboration needs more than an open plan. It needs choice, clarity and room to step away. Original editorial from a fictional Cape Town studio portfolio.",
+      "og": "Creating Collaborative Workspaces | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/journal/creating-collaborative-workspaces",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    },
+    {
+      "route": "/contact",
+      "width": 390,
+      "title": "Cape Town — Contact Demo | FORMA WORKSPACES",
+      "description": "Explore the Cape Town location and Western Cape service-area concept for fictional studio FORMA. Demo enquiries are not sent; no physical office is verified.",
+      "og": "Cape Town — Contact Demo | FORMA WORKSPACES",
+      "h1": 1,
+      "overflow": false,
+      "missingAlt": 0,
+      "externalLinks": [],
+      "label": "/contact",
+      "violations": [
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": []
+    }
+  ],
+  "states": [
+    {
+      "label": "Mobile comparison dialog",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 35
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Mobile navigation",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "nodes": [
+            {
+              "target": [
+                ".showroom-views > button:nth-child(1) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.78 (foreground color: #77786e, background color: #efece3, font size: 7.5pt (10px), font weight: bold). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(2) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.78 (foreground color: #77786e, background color: #efece3, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(3) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.78 (foreground color: #77786e, background color: #efece3, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(4) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.78 (foreground color: #77786e, background color: #efece3, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            },
+            {
+              "target": [
+                ".showroom-views > button:nth-child(5) > span"
+              ],
+              "summary": "Fix any of the following:\n  Element has insufficient color contrast of 3.78 (foreground color: #77786e, background color: #efece3, font size: 7.5pt (10px), font weight: normal). Expected contrast ratio of 4.5:1"
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "help": "Heading levels should only increase by one",
+          "nodes": [
+            {
+              "target": [
+                "aside > div > .furniture-info[aria-atomic=\"true\"][aria-live=\"polite\"] > h3"
+              ],
+              "summary": "Fix any of the following:\n  Heading order invalid"
+            }
+          ]
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "help": "Elements must have their visible text as part of their accessible name",
+          "nodes": [
+            {
+              "target": [
+                ".brand"
+              ],
+              "summary": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "aria-prohibited-attr",
+          "count": 2
+        },
+        {
+          "id": "color-contrast",
+          "count": 16
+        }
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/the-waterfront-studio",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/the-woodstock-collective",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/the-century-city-hub",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/the-stellenbosch-workspace",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/the-foreshore-offices",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/projects/the-claremont-studio",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/studio",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/services",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/experience",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/journal",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/journal/future-workplace-design-cape-town",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/journal/designing-offices-hybrid-work",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/journal/natural-materials-south-african-interiors",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/journal/creating-collaborative-workspaces",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "route": "/contact",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/projects",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/projects/the-waterfront-studio",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/projects/the-woodstock-collective",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/projects/the-century-city-hub",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/projects/the-stellenbosch-workspace",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/projects/the-foreshore-offices",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/projects/the-claremont-studio",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/studio",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/services",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/experience",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/journal",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/journal/future-workplace-design-cape-town",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/journal/designing-offices-hybrid-work",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/journal/natural-materials-south-african-interiors",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/journal/creating-collaborative-workspaces",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/contact",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/projects",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/projects/the-waterfront-studio",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/projects/the-woodstock-collective",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/projects/the-century-city-hub",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/projects/the-stellenbosch-workspace",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/projects/the-foreshore-offices",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/projects/the-claremont-studio",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/studio",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/services",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/experience",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/journal",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/journal/future-workplace-design-cape-town",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/journal/designing-offices-hybrid-work",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/journal/natural-materials-south-african-interiors",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/journal/creating-collaborative-workspaces",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/contact",
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

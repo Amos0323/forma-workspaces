@@ -1,0 +1,58 @@
+{
+  "desktop": {
+    "fps": 25.12895119712972,
+    "medianFrameMs": 33.399999999999636,
+    "p95FrameMs": 50,
+    "buffer": [
+      1060,
+      570
+    ],
+    "renderer": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)",
+    "heapBytes": 12700000,
+    "metrics": {
+      "engine": "three.js r186",
+      "materials": "{\"timber\":\"#ae8156\",\"flooring\":\"#b99569\",\"upholstery\":\"#697052\",\"accent\":\"#343a33\"}",
+      "resourceIds": "2de1327d-6e94-4cd9-9c75-63f5996742d5,efb3adae-f3d1-418e-a30e-59c88451213b,276bd7a8-3cc0-4a3b-b717-a56e45e86711",
+      "lighting": "daylight",
+      "background": "#e7e3d8",
+      "selectedFurniture": "",
+      "view": "Overview",
+      "frames": "77",
+      "calls": "144",
+      "triangles": "6964",
+      "geometries": "3",
+      "textures": "3",
+      "cameraY": "18.00",
+      "cameraPosition": "10.01,18.00,13.16"
+    },
+    "idleFrames": 0
+  },
+  "small": {
+    "fps": 46.27640234008143,
+    "medianFrameMs": 16.699999999999818,
+    "p95FrameMs": 33.40000000000009,
+    "buffer": [
+      800,
+      340
+    ],
+    "renderer": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)",
+    "heapBytes": 12700000,
+    "metrics": {
+      "engine": "three.js r186",
+      "materials": "{\"timber\":\"#ae8156\",\"flooring\":\"#b99569\",\"upholstery\":\"#697052\",\"accent\":\"#343a33\"}",
+      "resourceIds": "d925814e-14ee-445f-a67c-2ee52038d98f,d2c122b7-73f7-40f8-977c-de6650d70906,49b3fc52-f341-4003-9a76-8d1590d1c1f9",
+      "lighting": "daylight",
+      "background": "#e7e3d8",
+      "selectedFurniture": "",
+      "view": "Overview",
+      "frames": "141",
+      "calls": "144",
+      "triangles": "6964",
+      "geometries": "3",
+      "textures": "3",
+      "cameraY": "18.00",
+      "cameraPosition": "10.01,18.00,13.16"
+    },
+    "idleFrames": 0
+  }
+}

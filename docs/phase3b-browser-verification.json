@@ -1,0 +1,148 @@
+{
+  "desktop": {
+    "graphicsChunks": [
+      "2y9y1bpv2o1__.js"
+    ],
+    "graphicsOnProjects": [],
+    "graphicsBeforeEntry": [],
+    "graphicsAfterEntry": [
+      "http://localhost:3000/_next/static/chunks/2y9y1bpv2o1__.js"
+    ],
+    "sharedGeometryPreserved": true,
+    "themes": {
+      "cape": {
+        "engine": "three.js r186",
+        "materials": "{\"timber\":\"#ae8156\",\"flooring\":\"#b99569\",\"upholstery\":\"#697052\",\"accent\":\"#343a33\"}",
+        "resourceIds": "e66279fb-25f2-45f6-963d-ce6ed757975c,60a93e7a-5905-4729-a186-c21f26aedf86,523a60f4-18b7-4349-82b5-b77c4e5839a7",
+        "lighting": "daylight",
+        "background": "#e7e3d8",
+        "selectedFurniture": "",
+        "view": "Overview",
+        "frames": "2",
+        "calls": "152",
+        "triangles": "7060",
+        "geometries": "3",
+        "textures": "3",
+        "cameraY": "18.00",
+        "cameraPosition": "10.01,18.00,13.16"
+      },
+      "coastal": {
+        "engine": "three.js r186",
+        "materials": "{\"timber\":\"#cfb995\",\"flooring\":\"#d2c9b5\",\"upholstery\":\"#7d9a9d\",\"accent\":\"#e5e1d6\"}",
+        "resourceIds": "e66279fb-25f2-45f6-963d-ce6ed757975c,60a93e7a-5905-4729-a186-c21f26aedf86,523a60f4-18b7-4349-82b5-b77c4e5839a7",
+        "lighting": "daylight",
+        "background": "#e7e3d8",
+        "selectedFurniture": "",
+        "view": "Overview",
+        "frames": "3",
+        "calls": "144",
+        "triangles": "6964",
+        "geometries": "3",
+        "textures": "3",
+        "cameraY": "18.00",
+        "cameraPosition": "10.01,18.00,13.16"
+      },
+      "urban": {
+        "engine": "three.js r186",
+        "materials": "{\"timber\":\"#59402f\",\"flooring\":\"#756653\",\"upholstery\":\"#434743\",\"accent\":\"#a78658\"}",
+        "resourceIds": "e66279fb-25f2-45f6-963d-ce6ed757975c,60a93e7a-5905-4729-a186-c21f26aedf86,523a60f4-18b7-4349-82b5-b77c4e5839a7",
+        "lighting": "evening",
+        "background": "#b9ad99",
+        "selectedFurniture": "",
+        "view": "Overview",
+        "frames": "4",
+        "calls": "144",
+        "triangles": "6964",
+        "geometries": "3",
+        "textures": "3",
+        "cameraY": "18.00",
+        "cameraPosition": "10.01,18.00,13.16"
+      }
+    },
+    "errors": []
+  },
+  "mobile": {
+    "graphicsChunks": [
+      "2y9y1bpv2o1__.js"
+    ],
+    "graphicsOnProjects": [],
+    "graphicsBeforeEntry": [],
+    "graphicsAfterEntry": [
+      "http://localhost:3000/_next/static/chunks/2y9y1bpv2o1__.js"
+    ],
+    "sharedGeometryPreserved": true,
+    "themes": {
+      "cape": {
+        "engine": "three.js r186",
+        "materials": "{\"timber\":\"#ae8156\",\"flooring\":\"#b99569\",\"upholstery\":\"#697052\",\"accent\":\"#343a33\"}",
+        "resourceIds": "99e8f3db-7a5a-4652-9e3e-d723d20a2c0c,34d96797-f2ca-43f2-beaf-98c49d61f057,69710c34-dcac-46ad-972f-fb398066101e",
+        "lighting": "daylight",
+        "background": "#e7e3d8",
+        "selectedFurniture": "",
+        "view": "Overview",
+        "frames": "3",
+        "calls": "144",
+        "triangles": "6964",
+        "geometries": "3",
+        "textures": "3",
+        "cameraY": "23.21",
+        "cameraPosition": "13.01,23.21,17.11"
+      },
+      "coastal": {
+        "engine": "three.js r186",
+        "materials": "{\"timber\":\"#cfb995\",\"flooring\":\"#d2c9b5\",\"upholstery\":\"#7d9a9d\",\"accent\":\"#e5e1d6\"}",
+        "resourceIds": "99e8f3db-7a5a-4652-9e3e-d723d20a2c0c,34d96797-f2ca-43f2-beaf-98c49d61f057,69710c34-dcac-46ad-972f-fb398066101e",
+        "lighting": "daylight",
+        "background": "#e7e3d8",
+        "selectedFurniture": "",
+        "view": "Overview",
+        "frames": "5",
+        "calls": "144",
+        "triangles": "6964",
+        "geometries": "3",
+        "textures": "3",
+        "cameraY": "23.21",
+        "cameraPosition": "13.01,23.21,17.11"
+      },
+      "urban": {
+        "engine": "three.js r186",
+        "materials": "{\"timber\":\"#59402f\",\"flooring\":\"#756653\",\"upholstery\":\"#434743\",\"accent\":\"#a78658\"}",
+        "resourceIds": "99e8f3db-7a5a-4652-9e3e-d723d20a2c0c,34d96797-f2ca-43f2-beaf-98c49d61f057,69710c34-dcac-46ad-972f-fb398066101e",
+        "lighting": "evening",
+        "background": "#b9ad99",
+        "selectedFurniture": "",
+        "view": "Overview",
+        "frames": "8",
+        "calls": "144",
+        "triangles": "6964",
+        "geometries": "3",
+        "textures": "3",
+        "cameraY": "23.21",
+        "cameraPosition": "13.01,23.21,17.11"
+      }
+    },
+    "errors": []
+  },
+  "layoutWidths": {
+    "320": {
+      "noOverflow": true,
+      "closeButtonVisible": true
+    },
+    "390": {
+      "noOverflow": true,
+      "closeButtonVisible": true
+    },
+    "768": {
+      "noOverflow": true,
+      "closeButtonVisible": true
+    },
+    "1024": {
+      "noOverflow": true,
+      "closeButtonVisible": true
+    },
+    "1440": {
+      "noOverflow": true,
+      "closeButtonVisible": true
+    }
+  }
+}

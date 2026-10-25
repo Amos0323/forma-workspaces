@@ -1,0 +1,11 @@
+{
+  "recordedAt": "2026-10-25T18:20:52.169Z",
+  "buildId": "TxK2hwW5puQMuGR0nRolr",
+  "node": "v24.18.0",
+  "lockfileSha256": "e70f54e008efb39f0b8018fe6c6610f76abd1587e1eba06b60a9500372a6f018",
+  "sourceRevision": "Uncommitted local workspace; no immutable release commit created",
+  "physicalDeviceEvidence": [],
+  "deploymentPerformed": false,
+  "sourceManifestSha256": "7badeff2904154c4e735d864268da3e7c0599057127f9eb1be8e2fe1e6c7b019",
+  "sourceManifest": "docs/acceptance/source-manifest.json"
+}

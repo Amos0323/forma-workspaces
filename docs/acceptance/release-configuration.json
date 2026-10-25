@@ -1,0 +1,81 @@
+{
+  "siteUrlConfigured": false,
+  "indexingFlagEnabled": false,
+  "routes": [
+    {
+      "path": "/",
+      "status": 200,
+      "headers": {
+        "content-security-policy": "object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'none'",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "x-powered-by": null
+      },
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "fictionalDisclosure": true
+    },
+    {
+      "path": "/projects",
+      "status": 200,
+      "headers": {
+        "content-security-policy": "object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'none'",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "x-powered-by": null
+      },
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "fictionalDisclosure": true
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "headers": {
+        "content-security-policy": "object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'none'",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "x-powered-by": null
+      },
+      "robots": "noindex, nofollow",
+      "canonical": null,
+      "fictionalDisclosure": true
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "headers": {
+        "content-security-policy": "object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'none'",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "x-powered-by": null
+      },
+      "canonical": null,
+      "body": "User-Agent: *\nDisallow: /\n\n",
+      "fictionalDisclosure": false
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "headers": {
+        "content-security-policy": "object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'none'",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "permissions-policy": "camera=(), microphone=(), geolocation=()",
+        "x-powered-by": null
+      },
+      "canonical": null,
+      "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n</urlset>\n",
+      "fictionalDisclosure": false
+    }
+  ]
+}

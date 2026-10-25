@@ -1,0 +1,8 @@
+{
+  "verified": false,
+  "environment": "workspace sandbox",
+  "elapsedMs": 15163,
+  "result": "Firefox 1555 launch timed out after 15000ms before any application navigation.",
+  "stderr": "You are running in headless mode.",
+  "followUp": "The same launch script succeeded outside the sandbox. See phase3c-firefox-launch.json and PHASE-3C.md for application verification."
+}
